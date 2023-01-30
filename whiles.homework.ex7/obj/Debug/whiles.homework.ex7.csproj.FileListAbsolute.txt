@@ -1,0 +1,8 @@
+C:\Users\Анатолий\Desktop\C#\whiles.homework\whiles.homework.ex7\bin\Debug\whiles.homework.ex7.exe.config
+C:\Users\Анатолий\Desktop\C#\whiles.homework\whiles.homework.ex7\bin\Debug\whiles.homework.ex7.exe
+C:\Users\Анатолий\Desktop\C#\whiles.homework\whiles.homework.ex7\bin\Debug\whiles.homework.ex7.pdb
+C:\Users\Анатолий\Desktop\C#\whiles.homework\whiles.homework.ex7\obj\Debug\whiles.homework.ex7.csproj.AssemblyReference.cache
+C:\Users\Анатолий\Desktop\C#\whiles.homework\whiles.homework.ex7\obj\Debug\whiles.homework.ex7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Анатолий\Desktop\C#\whiles.homework\whiles.homework.ex7\obj\Debug\whiles.homework.ex7.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\Desktop\C#\whiles.homework\whiles.homework.ex7\obj\Debug\whiles.homework.ex7.exe
+C:\Users\Анатолий\Desktop\C#\whiles.homework\whiles.homework.ex7\obj\Debug\whiles.homework.ex7.pdb
